@@ -57,7 +57,7 @@
 ## 📫 Connect With Me
 
 <p>
-<a href="#"><img src="linkedin.com/in/arun-sai-kammani-3a6a14266"></a>
+<a href="#"><img src="https://www.linkedin.com/in/arun-sai-kammani-3a6a14266/"></a>
 <a href="#"><img src="arunnaidu119@gmail.com"></a>
 </p>
 
