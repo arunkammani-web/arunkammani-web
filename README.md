@@ -103,10 +103,10 @@ Turning data into insights • Building ML models • Solving real-world problem
 
 ---
 
-### 💻 Data Structures & Algorithms (C++)
+### 💻 Data Structures & Algorithms (python)
 <p>
 🔹 Sorting & Searching algorithms  
-🔹 Core C++ problem solving  
+🔹 Core python problem solving  
 🔹 Strong CS fundamentals  
 </p>
 
